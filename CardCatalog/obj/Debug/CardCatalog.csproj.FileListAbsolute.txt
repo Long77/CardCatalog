@@ -1,0 +1,14 @@
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\CardCatalog.exe.config
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\obj\Debug\CardCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\CardCatalog.exe
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\CardCatalog.pdb
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\obj\Debug\CardCatalog.exe
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\obj\Debug\CardCatalog.pdb
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\Books.mdf
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\Books_log.ldf
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\EntityFramework.dll
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\EntityFramework.xml
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\DisplayQueryResults.exe
+C:\Users\Joshua Long\Code\CardCatalog\CardCatalog\bin\Debug\DisplayQueryResults.pdb
