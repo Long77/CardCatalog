@@ -1,5 +1,5 @@
 # Card_Data
-Modeling a Library Card Catalog using C# .Net and LINQ. Stay tuned for Updates!
+Modeling a Library Card Catalog using C# .Net, Entity Framework and LINQ. Stay tuned for Updates.
 
 Scope of work:
 
